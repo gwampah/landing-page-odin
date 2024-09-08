@@ -1,2 +1,3 @@
 # landing-page-odin
-My awesome landing page!
+
+Welcome to my awesome landing page!
